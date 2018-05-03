@@ -1,7 +1,7 @@
 module.exports = {
   apps: [{
     name: 'tutorial-ec2',
-    script: './current/index.js'
+    script: './index.js'
   }],
   deploy: {
     production: {
